@@ -37,19 +37,19 @@ button, button:focus {
 
 /* Color Template  */
 .color-primary {
-    color: #003859;
+    color: #02070a;
 }
 
 .color-primary-bg {
-    background: #003859;
+    background: #2d4c5f;
 }
 
 .color-second {
-    color: #00A5C4;
+    color: #000000;
 }
 
 .color-second-bg {
-    background: #00A5C4;
+    background: #101112;
 }
 
 .color-yellow {
@@ -81,7 +81,7 @@ button, button:focus {
 #top-sale .owl-carousel .owl-nav button.owl-prev span,
 #top-sale .owl-carousel .owl-nav button.owl-next span {
     font-size: 35px;
-    color: #003859;
+    color: #112835;
     padding: 0 1rem;
 }
 #top-sale .owl-carousel .owl-nav button.owl-prev span {
